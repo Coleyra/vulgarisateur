@@ -1,5 +1,8 @@
-# vulgarisateur
+# Vulgarisateur
 Liste de vulgarisateurs
+
+## GENERALISTES
+L'Antisèche : https://www.youtube.com/channel/UCeOp9CWBaW2tVIBAzCobzow
 
 ## MATHÉMATIQUES
 Les statistiques expliquées à mon chat : https://www.youtube.com/channel/UCWty1tzwZW_ZNSp5GVGteaA 
