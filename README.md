@@ -62,3 +62,8 @@ Horizon Gull : https://peertube.mindpalace.io/video-channels/85113c14-0a50-46a5-
 
 ## MEDECINE
 Primum Non Nocere : https://www.youtube.com/channel/UC9BnGZLT4iPaJtDOXYwQuHQ
+
+## PEDAGOGIE
+Billes de sciences : https://www.youtube.com/channel/UCy1BMhZGRdFiOde2DqeQE0w
+
+Edukey : https://www.youtube.com/channel/UC6wF0stG_iXMO4mIXM9g3YQ
